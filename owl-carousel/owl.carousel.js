@@ -1362,7 +1362,9 @@ if (typeof Object.create !== "function") {
             var base = this;
             base.$elem.off(".owl owl mousedown.disableTextSelect");
             $(document).off(".owl owl");
-            $(window).off("resize", base.resizer);
+            if (base.resizer) {
+              $(window).off("resize", base.resizer);
+            }
         },
 
         unWrap : function () {
