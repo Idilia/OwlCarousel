@@ -1,6 +1,6 @@
 {
   "name": "idilia-owl-carousel",
-  "version": "1.3.4-idilia",
+  "version": "1.3.5",
   "authors": [
     "Owl <zly.ojciec@gmail.com>"
   ],
@@ -18,6 +18,10 @@
   ],
   "license": "MIT",
   "homepage": "http://owlgraphic.com/owlcarousel/",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Idilia/OwlCarousel"
+  },
   "ignore": [
     "**/.*",
     "node_modules",
