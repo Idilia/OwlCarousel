@@ -1,7 +1,8 @@
-##New version 2.0.0-beta now available for testers. [Check it](http://www.owlgraphic.com/owlcarousel2/)
+##This is not intended to be a very public version.
+Please refer to original repository to get more information. It fixes an issue with resizing where handlers are removed whether or not set by OwlCarousel plugin.
 
 ### OwlCarousel ###
->v.1.3.4
+>v.1.3.5-idilia
 
 Touch enabled jQuery plugin that lets you create beautiful responsive carousel slider.
 [Visit Owl Carousel landing page](http://owlgraphic.com/owlcarousel)
